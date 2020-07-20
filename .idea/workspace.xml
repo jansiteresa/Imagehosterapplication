@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c332855e-1472-4d27-ab03-26b600a6ba8c" name="Default Changelist" comment="">
+    <list default="true" id="c332855e-1472-4d27-ab03-26b600a6ba8c" name="Default Changelist" comment="&quot;Edit/delete bug fixed&quot;">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ImageHoster/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ImageHoster/controller/UserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ImageHoster/controller/ImageController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ImageHoster/controller/ImageController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ImageHoster/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ImageHoster/controller/UserController.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,7 +120,7 @@
       <workItem from="1595146295052" duration="3173000" />
       <workItem from="1595152117687" duration="3070000" />
       <workItem from="1595178564720" duration="3512000" />
-      <workItem from="1595248244400" duration="12327000" />
+      <workItem from="1595248244400" duration="13190000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;Edit/delete bug fixed&quot;">
       <created>1595257802029</created>
@@ -155,10 +152,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="534" y="256" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728@0.0.1366.728" timestamp="1595078429951" />
-    <state x="484" y="0" key="CommitChangelistDialog2" timestamp="1595257798785">
+    <state x="484" y="0" key="CommitChangelistDialog2" timestamp="1595261455258">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="484" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1595257798785" />
+    <state x="484" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1595261455258" />
     <state width="780" height="278" key="GridCell.Tab.0.bottom" timestamp="1595260969191">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -207,10 +204,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="780" height="189" key="GridCell.Tab.2.right/0.0.1366.728@0.0.1366.728" timestamp="1595177729843" />
-    <state x="757" y="298" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1595259698320">
+    <state x="757" y="298" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1595261907880">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="757" y="298" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1595259698320" />
+    <state x="757" y="298" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1595261907880" />
   </component>
   <component name="masterDetails">
     <states>
